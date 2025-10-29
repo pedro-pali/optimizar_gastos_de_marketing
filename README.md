@@ -5,5 +5,8 @@ Proyecto para calcular gastos de marketing en una empresa con data real, conclui
 Se almacenan los datos de visitas, pedidos y gastos en variables, se optimizan los datos para su análisis y se asegura que cada columna contenga el tipo de datos correcto.
 
 ## Paso 2. Informes y cálculos de métricas
-### Ventas:
+### Visitas:
 Se calcularon las métricas DAU, WAU y MAU para conocer los usuarios que visitan la página, las sesiones y su duración por día, tambien la frecuencia con la que regresan los usuarios a la página.
+
+### Ventas:
+Se respondieron preguntas cómo ¿Cuándo empieza la gente a comprar? y ¿cuál es el tamaño promedio de compras?, también se calculó el LTV.
