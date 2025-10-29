@@ -10,3 +10,6 @@ Se calcularon las métricas DAU, WAU y MAU para conocer los usuarios que visitan
 
 ### Ventas:
 Se respondieron preguntas cómo ¿Cuándo empieza la gente a comprar? y ¿cuál es el tamaño promedio de compras?, también se calculó el LTV.
+
+### Costos de marketing:
+Se hicieron cálculos para saber el CAC (Costo de Adquisición del cliente) y qué tan rentables eran las inversiones de marketing.
