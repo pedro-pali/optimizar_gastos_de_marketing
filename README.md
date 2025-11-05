@@ -1,5 +1,11 @@
 # optimizar_gastos_de_marketing
-Proyecto para calcular gastos de marketing en una empresa con data real, concluir en que se puede mejorar y si es rentable o no.
+Proyecto para calcular gastos de marketing en una empresa que vende entrada a eventos online. 
+
+## Herramientas 
+- Python
+- Pyplot
+- Seaborn
+- Microsoft Visual Studio Code
 
 ## Paso 1. Acceso a los datos y preparación de análisis
 Se almacenan los datos de visitas, pedidos y gastos en variables, se optimizan los datos para su análisis y se asegura que cada columna contenga el tipo de datos correcto.
